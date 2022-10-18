@@ -1,3 +1,3 @@
 # Family Tree
-run "yarn" and then "yarn start"
+Run "yarn" and then "yarn start". Data is stored in scr/demoData.js
 ![Screenshot](Screenshot.png)
