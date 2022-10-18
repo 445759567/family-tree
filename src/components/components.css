@@ -1,0 +1,22 @@
+.person{
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.layerContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.layerCouple{
+    border: bisque 1px solid;
+    margin: 10px;
+}
+.layerItem {
+    display: flex;
+    flex-direction: row;
+}
